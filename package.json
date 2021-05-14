@@ -1,0 +1,19 @@
+{
+  "name": "vault-demo-app",
+  "version": "1.0.0",
+  "description": "node.js application to demonstrate Vault secret injection on OpenShift Container Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raunak-S/vault-demo-app.git"
+  },
+  "author": "Raunak Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raunak-S/vault-demo-app/issues"
+  },
+  "homepage": "https://github.com/Raunak-S/vault-demo-app#readme"
+}
